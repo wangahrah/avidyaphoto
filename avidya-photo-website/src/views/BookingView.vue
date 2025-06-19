@@ -15,7 +15,7 @@
             <img src="/photos/misc/bio.jpg" alt="Michael - Photographer" />
           </div>
           <div class="bio-text">
-            <p>Michael has been a photographer in Washington and New Jersey. Pictures let our memories live forever, and Michael is pleased to offer your family the priceless images of love and joy that grow from your family.</p>
+            <p>Michael is a passionate photographer based in New Jersey, specializing in capturing life's most precious moments. With a keen eye for detail and a love for storytelling through imagery, Michael creates timeless photographs that preserve the authentic emotions and connections that make your family unique.</p>
           </div>
         </div>
       </div>

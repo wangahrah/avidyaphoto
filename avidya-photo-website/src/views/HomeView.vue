@@ -32,7 +32,7 @@ const serviceData = ref<Record<string, Service>>({
   },
   Events: {
     name: 'Events',
-    description: "Life's most precious celebrations deserve to be captured with the care they inspire. From intimate wedding ceremonies where two hearts become one, to milestone birthdays surrounded by generations of love, I document the laughter, tears, and spontaneous moments that make your gathering unforgettable. My gentle, unobtrusive approach ensures that while I'm preserving your memories, you're free to be fully present in the joy of the moment.",
+    description: "Life's most precious celebrations deserve to be captured with the care they inspire. From intimate wedding ceremonies where two hearts become one, to local festivals, parties, and creative events, I document the laughter, tears, and spontaneous moments that make your gathering unforgettable. My gentle, unobtrusive approach ensures that while I'm preserving your memories, you're free to be fully present in the joy of the moment.",
     photos: [
       { src: '/photos/events/event1.jpg', alt: 'Event sample 1' },
       { src: '/photos/events/event2.jpg', alt: 'Event sample 2' },
@@ -57,13 +57,7 @@ const portfolioPhotos = ref<Photo[]>([
   { src: '/photos/portfolio/portfolio4.jpg', alt: 'Portfolio 4' },
   { src: '/photos/portfolio/portfolio5.jpg', alt: 'Portfolio 5' },
   { src: '/photos/portfolio/portfolio6.jpg', alt: 'Portfolio 6' },
-  { src: '/photos/portfolio/portfolio7.jpg', alt: 'Portfolio 7' },
-  { src: '/photos/portfolio/portfolio8.jpg', alt: 'Portfolio 8' },
-  { src: '/photos/portfolio/portfolio9.jpg', alt: 'Portfolio 9' },
-  { src: '/photos/portfolio/portfolio10.jpg', alt: 'Portfolio 10' },
-  { src: '/photos/portfolio/portfolio11.jpg', alt: 'Portfolio 11' },
-  { src: '/photos/portfolio/portfolio12.jpg', alt: 'Portfolio 12' },
-  { src: '/photos/portfolio/portfolio13.jpg', alt: 'Portfolio 13' }
+  { src: '/photos/portfolio/portfolio7.jpg', alt: 'Portfolio 7' }
 ])
 
 const selectService = (serviceName: string) => {
